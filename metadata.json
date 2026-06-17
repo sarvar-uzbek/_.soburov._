@@ -1,0 +1,6 @@
+{
+  "name": "Rock Paper Scissors",
+  "description": "Premium AAA-style Rock Paper Scissors game featuring vs AI difficulties, simultaneous 2-player local pass-and-play, simulated online matchmaking, player profiles, leveling system, statistics tracking, real-time particle effects, and a neon dark style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
